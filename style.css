@@ -200,7 +200,7 @@ ul {
     align-content: center;
     text-align: left;
     border: 2px solid hsl(35, 21%, 11%);
-    background-color: rgba(56, 46, 34, 0.7);
+    background-color: #382e22b3;
 }
 
 /* Ícones das notícias em alta */
@@ -391,7 +391,7 @@ body {
     color: #2c3e50;
     margin: 40px 0;
     padding-bottom: 15px;
-    border-bottom: 3px solid #3498db;
+    border-bottom: 3px solid #382e22;
 }
 
 .noticias-grid {
